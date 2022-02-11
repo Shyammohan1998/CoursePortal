@@ -4,7 +4,7 @@ Install NodeJS from https://www.apachefriends.org
 # Installation
 Create a database named MyGuru in your MySql DB Server
 
-Download sql file attatched in this repository (https://github.com/Shyammohan1998/MyGuru-online_CoursePortal/blob/main/assets/myguru.sql) and imported to your Database in phpMyAdmin panel
+Download sql file  from https://drive.google.com/file/d/1IrS9iRBWIySWr3nRAGDecXh_C9ZQIsVD/view?usp=sharing and imported to your Database in phpMyAdmin panel
 
 Download/Clone this git repositoty (https://github.com/Shyammohan1998/MyGuru-online_CoursePortal.git) and put it into your Xampp directory (C:\xampp\htdocs)
 
